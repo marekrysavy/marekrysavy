@@ -1,6 +1,6 @@
 # Hi there, I'm Marek 👋
 
-> **Monitoring Architect & Zabbix Trainer**
+> **Monitoring and Automation Architect & Zabbix Trainer**
 > 🟨 I design monitoring that makes sense, integrate applications, and streamline operations via automation.
 >
 > `{Zabbix, n8n, NiFi, Ansible}`
