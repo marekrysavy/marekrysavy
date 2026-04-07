@@ -1,4 +1,4 @@
-# Hi there, I'm Marek 👋
+# Hi, I'm Marek 👋
 
 > **Monitoring and Automation Architect & Zabbix Trainer**
 > 🟨 I design monitoring that makes sense, integrate applications, and streamline operations via automation.
